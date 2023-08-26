@@ -18,3 +18,5 @@
 
 # Make prediction on the test data
 ![image](https://github.com/pavani701/Decision_Tree_Cassification/assets/143177749/2c3e511a-ec6f-4e3a-b2b0-2bd0c465373c)
+
+# Conclusion:According to my model decision tree is successfully completed by using supervised machine learning algorithm with the accuracy of 1.
